@@ -1,0 +1,11 @@
+.header__tang-link {
+  font-size: 1.5em;
+}
+
+.header__tang-link:first-of-type {
+  padding-left: 78%;
+}
+
+.header__tang-link:last-of-type {
+  padding-left: 1%;
+}
