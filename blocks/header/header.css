@@ -2,7 +2,8 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  max-width: 93%;
+  max-width: 1184px;
+  min-height: 52px;
   margin: 0 auto;
-  padding-top: 2.2%;
+  padding-top: 28px;
 }
