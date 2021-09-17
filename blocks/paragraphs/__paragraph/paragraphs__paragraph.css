@@ -1,0 +1,9 @@
+.paragraphs__paragraph {
+  margin: 0;
+  font-size: 18px;
+  line-height: 163%;
+}
+
+.paragraphs__paragraph:first-of-type {
+  margin-bottom: 26px;
+}
