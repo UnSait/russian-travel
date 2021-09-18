@@ -6,3 +6,17 @@
   font-family: 'Inter', Arial, sans-serif;
   color: #FFFFFF;
 }
+
+@media screen and (max-width: 1184px) {
+  .page__container {
+    min-width: 768px;
+    max-width: 1024px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .page__container {
+    min-width: 320px;
+    max-width: 720px;
+  }
+}

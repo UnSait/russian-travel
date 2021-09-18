@@ -43,7 +43,7 @@
 .lead__image-name:nth-child(22) {
   position: absolute;
   top: 255.39px;
-  right: 484.26px;
+  right: 484.28px;
   z-index: 1;
 }
 
@@ -80,4 +80,334 @@
   top: 235.58px;
   right: 920.76px;
   z-index: 1;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__image-name:nth-child(4) {
+    width: 56.98px;
+    height: 10.03px;
+    position: absolute;
+    top: 254.04px;
+    right: 22.3px;
+    z-index: 1;
+  }
+
+   .lead__image-name:nth-child(7) {
+    width: 76.26px;
+    height: 8.21px;
+    position: absolute;
+    top: 191.4px;
+    right: 74.56px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(10) {
+    width: 32.63px;
+    height: 8.21px;
+    position: absolute;
+    top: 278.22px;
+    right: 222.1px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(13) {
+    width: 49.35px;
+    height: 8.21px;
+    position: absolute;
+    top: 254.04px;
+    right: 292.5px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(16) {
+    width: 37.86px;
+    height: 7.99px;
+    position: absolute;
+    top: 212.97px;
+    right: 372.43px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(19) {
+    width: 44.17px;
+    height: 8.21px;
+    position: absolute;
+    top: 283.72px;
+    right: 368.15px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(22) {
+    width: 79.61px;
+    height: 8.21px;
+    position: absolute;
+    top: 240.86px;
+    right: 456.72px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(25) {
+    width: 71.14px;
+    height: 8.21px;
+    position: absolute;
+    top: 210.08px;
+    right: 514.7px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(28) {
+    width: 69.42px;
+    height: 8.21px;
+    position: absolute;
+    top: 276.02px;
+    right: 595.21px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(31) {
+    width: 35px;
+    height: 7.99px;
+    position: absolute;
+    top: 251.95px;
+    right: 717.13px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(34) {
+    width: 62.08px;
+    height: 25.14px;
+    position: absolute;
+    top: 85.07px;
+    right: 778.65px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(37) {
+    width: 37.69px;
+    height: 8.21px;
+    position: absolute;
+    top: 222.17px;
+    right: 868.36px;
+    z-index: 1;
+  }
+}
+
+@media screen and (max-width: 928px) {
+  .lead__image-name:nth-child(4) {
+    width: 41.81px;
+    height: 8.3px;
+    position: absolute;
+    top: 210.24px;
+    right: 18.45px;
+    z-index: 1;
+  }
+
+   .lead__image-name:nth-child(7) {
+    width: 63.11px;
+    height: 6.8px;
+    position: absolute;
+    top: 158.4px;
+    right: 61.71px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(10) {
+    width: 27px;
+    height: 6.8px;
+    position: absolute;
+    top: 230.25px;
+    right: 183.6px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(13) {
+    width: 40.84px;
+    height: 6.8px;
+    position: absolute;
+    top: 210.24px;
+    right: 242.13px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(16) {
+    width: 31.33px;
+    height: 6.61px;
+    position: absolute;
+    top: 176.25px;
+    right: 308.21px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(19) {
+    width: 36.55px;
+    height: 6.8px;
+    position: absolute;
+    top: 234.8px;
+    right: 304.68px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(22) {
+    width: 65.88px;
+    height: 6.8px;
+    position: absolute;
+    top: 199.33px;
+    right: 377.97px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(25) {
+    width: 58.88px;
+    height: 6.8px;
+    position: absolute;
+    top: 173.86px;
+    right: 425.96px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(28) {
+    width: 57.45px;
+    height: 6.8px;
+    position: absolute;
+    top: 228.43px;
+    right: 492.59px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(31) {
+    width: 28.96px;
+    height: 6.61px;
+    position: absolute;
+    top: 208.51px;
+    right: 593.49px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(34) {
+    width: 51.37px;
+    height: 20.81px;
+    position: absolute;
+    top: 70.41px;
+    right: 644.4px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(37) {
+    width: 31.19px;
+    height: 6.8px;
+    position: absolute;
+    top: 183.87px;
+    right: 718.65px;
+    z-index: 1;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead__image-name:nth-child(4) {
+    width: 20.34px;
+    height: 3.46px;
+    position: absolute;
+    top: 87.6px;
+    right: 7.69px;
+    z-index: 1;
+  }
+
+   .lead__image-name:nth-child(7) {
+    width: 26.3px;
+    height: 2.83px;
+    position: absolute;
+    top: 66px;
+    right: 25.71px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(10) {
+    width: 11.25px;
+    height: 2.83px;
+    position: absolute;
+    top: 95.94px;
+    right: 76.58px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(13) {
+    width: 17.02px;
+    height: 2.83px;
+    position: absolute;
+    top: 87.6px;
+    right: 100.89px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(16) {
+    width: 13.06px;
+    height: 2.76px;
+    position: absolute;
+    top: 73.44px;
+    right: 128.42px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(19) {
+    width: 15.235px;
+    height: 2.83px;
+    position: absolute;
+    top: 97.83px;
+    right: 126.95px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(22) {
+    width: 27.45px;
+    height: 2.83px;
+    position: absolute;
+    top: 83.05px;
+    right: 157.49px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(25) {
+    width: 24.53px;
+    height: 2.83px;
+    position: absolute;
+    top: 72.44px;
+    right: 177.48px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(28) {
+    width: 23.94px;
+    height: 2.83px;
+    position: absolute;
+    top: 95.18px;
+    right: 205.24px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(31) {
+    width: 12.07px;
+    height: 2.76px;
+    position: absolute;
+    top: 86.88px;
+    right: 247.29px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(34) {
+    width: 21.41px;
+    height: 8.67px;
+    position: absolute;
+    top: 29.34px;
+    right: 268.5px;
+    z-index: 1;
+  }
+
+  .lead__image-name:nth-child(37) {
+    width: 13px;
+    height: 2.83px;
+    position: absolute;
+    top: 76.61px;
+    right: 299.44px;
+    z-index: 1;
+  }
 }

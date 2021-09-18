@@ -1,5 +1,24 @@
 .place__container {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 40px 46px;
+  gap: 48px 40px;
+}
+
+@media screen and (max-width: 1024px) {
+  .place__container {
+    gap: 46px 32px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place__container {
+    gap: 46px 28px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place__container {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
 }

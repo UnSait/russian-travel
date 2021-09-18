@@ -5,3 +5,21 @@
   font-weight: 900;
   line-height: 76px;
 }
+
+@media screen and (max-width: 1024px) {
+  .place__title {
+    margin-top: 88px;
+    font-weight: 900;
+    font-size: 42px;
+    line-height: 46px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place__title {
+    margin-top: 64px;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 35px;
+  }
+}

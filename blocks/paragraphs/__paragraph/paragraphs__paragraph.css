@@ -7,3 +7,9 @@
 .paragraphs__paragraph:first-of-type {
   margin-bottom: 26px;
 }
+
+@media screen and (max-width: 768px) {
+  .paragraphs__paragraph {
+    font-size: 18px;
+  }
+}
