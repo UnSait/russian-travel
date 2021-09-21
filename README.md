@@ -6,4 +6,4 @@
 2. проверить код на кроссбраузерность и дописать все вендорные префиксы.
 
 
-https://github.com/UnSait/russian-travel.git
+https://unsait.github.io/russian-travel/

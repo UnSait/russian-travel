@@ -3,3 +3,9 @@
   line-height: 22px;
   text-decoration: underline;
 }
+
+@media screen and (max-width: 768px) {
+  .website__link {
+    margin-left: 16px;
+  }
+}
