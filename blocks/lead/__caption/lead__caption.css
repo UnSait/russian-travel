@@ -4,7 +4,6 @@
   padding-top: 8px;
   max-width: 984px;
   font-size: 10px;
-  font-weight: normal;
   line-height: 14px;
   letter-spacing: 1.5px;
   text-transform: uppercase;
@@ -16,15 +15,14 @@
   }
 }
 
-@media screen and (max-width: 928px) {
+@media screen and (max-width: 1023px) {
   .lead__caption {
     max-width: 720px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .lead__caption {
     max-width: 288px;
-
   }
 }

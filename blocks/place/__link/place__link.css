@@ -1,11 +1,11 @@
-.website__link {
+.place__link {
   font-size: 18px;
   line-height: 22px;
   text-decoration: underline;
 }
 
-@media screen and (max-width: 768px) {
-  .website__link {
+@media screen and (max-width: 767px) {
+  .place__link {
     margin-left: 16px;
   }
 }
