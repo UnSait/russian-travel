@@ -3,10 +3,6 @@
   line-height: 28px;
 }
 
-.header__tang-link:last-of-type {
-  padding-left: 18px;
-}
-
 @media screen and (max-width: 767px) {
   .header__tang-link {
     font-size: 18px;

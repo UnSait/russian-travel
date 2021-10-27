@@ -1,0 +1,5 @@
+.header__lang {
+  display: grid;
+  gap: 18px;
+  grid-template-columns: 1fr 1fr;
+}
